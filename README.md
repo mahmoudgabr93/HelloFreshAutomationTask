@@ -1,5 +1,8 @@
 # HelloFreshAutomationTask
 To execute the test cases run the testing.xml file.
+To configure which browser you would like the tests to run the tests with, change browser parameter to firefox or safari
+If you want to execute tests on Safari make sure to allow remote automation option from develop menu in Safari browser itself
+This webdriver factory is found in the Testbase file
 This framework had been developed on Mac so if you are executing the test cases
 on a windows laptop please make sure to replace the unix drivers in the drivers folder with the drivers.exe files
 which I have added for you in a folder names windows-drivers.
