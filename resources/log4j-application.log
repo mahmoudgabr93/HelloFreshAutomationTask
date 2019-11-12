@@ -1,0 +1,4 @@
+2019-11-11 02:50:58 DEBUG LoginTest:39 - Title matches
+2019-11-11 02:50:58 DEBUG LoginTest:42 - Account Info is displayed correctly
+2019-11-11 02:50:58 DEBUG LoginTest:44 - Logout button is displayed correctly
+2019-11-11 02:50:58 DEBUG LoginTest:46 - Current URL contains my account

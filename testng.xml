@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1"  name="hello fresh challenge"  parallel="classes" >
+
+    <test  name="happy scenarios" parallel="classes">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test.LoginTest"/>
+            <class name="Test.SignInTest"/>
+            <class name="Test.CheckoutTest"/>
+        </classes>
+    </test>
+
+</suite>

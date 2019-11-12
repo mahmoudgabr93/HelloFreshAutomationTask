@@ -1,0 +1,62 @@
+2019-11-11 02:53:36 DEBUG LoginTest:39 - Title matches
+2019-11-11 02:53:36 DEBUG LoginTest:42 - Account Info is displayed correctly
+2019-11-11 02:53:36 DEBUG LoginTest:44 - Logout button is displayed correctly
+2019-11-11 02:53:36 DEBUG LoginTest:46 - Current URL contains my account
+2019-11-12 00:07:03 DEBUG LoginTest:45 - Title matches
+2019-11-12 00:07:03 DEBUG LoginTest:48 - Account Info is displayed correctly
+2019-11-12 00:07:03 DEBUG LoginTest:50 - Logout button is displayed correctly
+2019-11-12 00:07:03 DEBUG LoginTest:52 - Current URL contains my account
+2019-11-12 00:27:05 DEBUG LoginTest:39 - Title matches
+2019-11-12 00:27:05 DEBUG LoginTest:42 - Account Info is displayed correctly
+2019-11-12 00:27:05 DEBUG LoginTest:44 - Logout button is displayed correctly
+2019-11-12 00:27:05 DEBUG LoginTest:46 - Current URL contains my account
+2019-11-12 00:36:41 DEBUG LoginTest:70 - Account is created successfully
+2019-11-12 00:36:41 DEBUG LoginTest:72 - Account name is displayed corrrectly
+2019-11-12 00:36:41 DEBUG LoginTest:74 - Welcome to your account title is displayed
+2019-11-12 00:36:41 DEBUG LoginTest:76 - Log out button is displayed correctly
+2019-11-12 00:37:48 DEBUG LoginTest:48 - Order is added successfully
+2019-11-12 00:37:49 DEBUG LoginTest:53 - Order has been added to the store
+2019-11-12 00:39:26 DEBUG LoginTest:38 - Title matches
+2019-11-12 00:39:26 DEBUG LoginTest:41 - Account Info is displayed correctly
+2019-11-12 00:39:26 DEBUG LoginTest:43 - Logout button is displayed correctly
+2019-11-12 00:39:26 DEBUG LoginTest:45 - Current URL contains my account
+2019-11-12 00:49:35 DEBUG LoginTest:38 - Title matches
+2019-11-12 00:49:35 DEBUG LoginTest:41 - Account Info is displayed correctly
+2019-11-12 00:49:35 DEBUG LoginTest:43 - Logout button is displayed correctly
+2019-11-12 00:49:35 DEBUG LoginTest:45 - Current URL contains my account
+2019-11-12 00:50:05 DEBUG LoginTest:70 - Account is created successfully
+2019-11-12 00:50:05 DEBUG LoginTest:72 - Account name is displayed corrrectly
+2019-11-12 00:50:05 DEBUG LoginTest:74 - Welcome to your account title is displayed
+2019-11-12 00:50:05 DEBUG LoginTest:76 - Log out button is displayed correctly
+2019-11-12 00:53:00 DEBUG LoginTest:70 - Account is created successfully
+2019-11-12 00:53:00 DEBUG LoginTest:72 - Account name is displayed corrrectly
+2019-11-12 00:53:00 DEBUG LoginTest:74 - Welcome to your account title is displayed
+2019-11-12 00:53:00 DEBUG LoginTest:76 - Log out button is displayed correctly
+2019-11-12 00:53:50 DEBUG LoginTest:38 - Title matches
+2019-11-12 00:53:50 DEBUG LoginTest:41 - Account Info is displayed correctly
+2019-11-12 00:53:50 DEBUG LoginTest:43 - Logout button is displayed correctly
+2019-11-12 00:53:50 DEBUG LoginTest:45 - Current URL contains my account
+2019-11-12 00:54:10 DEBUG LoginTest:70 - Account is created successfully
+2019-11-12 00:54:10 DEBUG LoginTest:72 - Account name is displayed corrrectly
+2019-11-12 00:54:10 DEBUG LoginTest:74 - Welcome to your account title is displayed
+2019-11-12 00:54:10 DEBUG LoginTest:76 - Log out button is displayed correctly
+2019-11-12 00:54:38 DEBUG LoginTest:48 - Order is added successfully
+2019-11-12 00:54:38 DEBUG LoginTest:53 - Order has been added to the store
+2019-11-12 00:56:54 DEBUG LoginTest:38 - Title matches
+2019-11-12 00:56:54 DEBUG LoginTest:41 - Account Info is displayed correctly
+2019-11-12 00:56:54 DEBUG LoginTest:43 - Logout button is displayed correctly
+2019-11-12 00:56:54 DEBUG LoginTest:45 - Current URL contains my account
+2019-11-12 00:57:12 DEBUG LoginTest:70 - Account is created successfully
+2019-11-12 00:57:12 DEBUG LoginTest:72 - Account name is displayed corrrectly
+2019-11-12 00:57:12 DEBUG LoginTest:74 - Welcome to your account title is displayed
+2019-11-12 00:57:12 DEBUG LoginTest:76 - Log out button is displayed correctly
+2019-11-12 21:32:27 DEBUG LoginTest:38 - Title matches
+2019-11-12 21:32:27 DEBUG LoginTest:41 - Account Info is displayed correctly
+2019-11-12 21:32:27 DEBUG LoginTest:43 - Logout button is displayed correctly
+2019-11-12 21:32:27 DEBUG LoginTest:45 - Current URL contains my account
+2019-11-12 21:32:44 DEBUG LoginTest:70 - Account is created successfully
+2019-11-12 21:32:44 DEBUG LoginTest:72 - Account name is displayed corrrectly
+2019-11-12 21:32:44 DEBUG LoginTest:74 - Welcome to your account title is displayed
+2019-11-12 21:32:44 DEBUG LoginTest:76 - Log out button is displayed correctly
+2019-11-12 21:33:18 DEBUG LoginTest:49 - Order is added successfully
+2019-11-12 21:33:18 DEBUG LoginTest:54 - Order has been added to the store

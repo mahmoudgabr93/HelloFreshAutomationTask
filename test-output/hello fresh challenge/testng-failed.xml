@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="classes" name="Failed suite [hello fresh challenge]">
+  <parameter name="browser" value="chrome"/>
+  <test parallel="classes" name="happy scenarios(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Test.LoginTest">
+        <methods>
+          <include name="stopDriver"/>
+          <include name="startDriver"/>
+          <include name="screenshotOnFailure"/>
+        </methods>
+      </class> <!-- Test.LoginTest -->
+      <class name="Test.CheckoutTest">
+        <methods>
+          <include name="stopDriver"/>
+          <include name="validCheckoutScenario"/>
+          <include name="startDriver"/>
+          <include name="screenshotOnFailure"/>
+        </methods>
+      </class> <!-- Test.CheckoutTest -->
+      <class name="Test.SignInTest">
+        <methods>
+          <include name="stopDriver"/>
+          <include name="startDriver"/>
+          <include name="screenshotOnFailure"/>
+        </methods>
+      </class> <!-- Test.SignInTest -->
+    </classes>
+  </test> <!-- happy scenarios(failed) -->
+</suite> <!-- Failed suite [hello fresh challenge] -->
